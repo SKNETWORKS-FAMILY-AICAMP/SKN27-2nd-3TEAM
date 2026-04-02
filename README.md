@@ -69,8 +69,9 @@
 
   > 데이터 기반 리텐션 전략 수립: 모델이 예측한 이탈 확률을 바탕으로 마케팅 예산을 효율적으로 배분하고, 개인화된 혜택(쿠폰, 푸시 알림 등)을 제공할 수 있는 근거를 마련합니다.
 
-- 데이터 소개
+## 데이터 소개
 > 데이터 수집 경로(kkbox) : (https://www.kaggle.com/c/kkbox-churn-prediction-challenge)
+
 - Data Dictionary
 
 | 분류 | 파일명 | 컬럼명 | 설명 |
@@ -278,7 +279,6 @@ frontend/
 | **결제 후 행동** | `days_to_first_listen` | 결제 발생 후 첫 청취까지 걸린 시간 (평균/최근) |
 
 ---
----
 
 ## Model Performance & Evaluation
 
@@ -340,9 +340,7 @@ frontend/
 
 ---
 
-### 결과 해석 및 인사이트 (Results Interpretation)
-
-# 최종 결론 및 프로젝트 인사이트
+## 최종 결론 및 프로젝트 인사이트
 
 ## 1. 주요 이탈 요인 분석 (Feature Importance)
 - **is_auto_renew_last (자동 갱신 여부)**  
