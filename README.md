@@ -4,51 +4,58 @@
 ## 팀원 소개
 
 <table>
-  <colgroup>
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <td style="text-align: center;"><img src="Image/content1.png" alt="이혜림"></td>
-      <td style="text-align: center;"><img src="Image/content2.png" alt="이재희"></td>
-      <td style="text-align: center;"><img src="Image/content3.png" alt="오주희"></td>
-      <td style="text-align: center;"><img src="Image/content4.png" alt="박송원" style="width: 180px;"></td>
-      <td style="text-align: center;"><img src="Image/content5.png" alt="신동혁"></td>
-    </tr>
-    <tr style="font-weight: bold;">
-      <td style="text-align: center;">이혜림</td>
-      <td style="text-align: center;">이재희</td>
-      <td style="text-align: center;">오주희</td>
-      <td style="text-align: center;">박송원</td>
-      <td style="text-align: center;">신동혁</td>
-    </tr>
-    <tr>
-      <!-- 이혜림 -->
-      <td style="text-align: center;">
-        <a href="https://github.com/hi20260204-maker"><img src="https://img.shields.io/badge/hi20260204--maker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - hi20260204-maker"></a>
-      </td>
-      <!-- 이재희 -->
-      <td style="text-align: center;">
-        <a href="https://github.com/EJ-pro"><img src="https://img.shields.io/badge/EJ--pro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - EJ-pro"></a>
-      </td>
-      <!-- 오주희 -->
-      <td style="text-align: center;">
-        <a href="https://github.com/ohjuheecode"><img src="https://img.shields.io/badge/ohjuheecode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - ohjuheecode"></a>
-      </td>
-      <!-- 박송원 -->
-      <td style="text-align: center;">
-        <a href="https://github.com/SongwonPark08"><img src="https://img.shields.io/badge/SongwonPark08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - SongwonPark08"></a>
-      </td>
-      <!-- 신동혁 -->
-      <td style="text-align: center;">
-        <a href="https://github.com/techshin31"><img src="https://img.shields.io/badge/techshin31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - techshin31"></a>
-      </td>
-    </tr>
-  </tbody>
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 20%;">
+</colgroup>
+<tbody>
+<!-- 1. 프로필 이미지 -->
+<tr>
+<td style="text-align: center;"><img src="Image/content1.png" alt="이혜림"style="width: 180px;"></td>
+<td style="text-align: center;"><img src="Image/content3.png" alt="오주희"style="width: 180px;"></td>
+<td style="text-align: center;"><img src="Image/content2.png" alt="이재희"style="width: 180px;"></td>
+<td style="text-align: center;"><img src="Image/content4.png" alt="박송원"style="width: 250px;"></td>
+<td style="text-align: center;"><img src="Image/content5.png" alt="신동혁"style="width: 180px;"></td>
+</tr>
+<!-- 2. 이름 -->
+<tr style="font-weight: bold;">
+<td style="text-align: center;">이혜림</td>
+<td style="text-align: center;">오주희</td>
+<td style="text-align: center;">이재희</td>
+<td style="text-align: center;">박송원</td>
+<td style="text-align: center;">신동혁</td>
+</tr>
+<!-- 3. GitHub 링크 -->
+<tr>
+<td style="text-align: center;">
+<a href="https://github.com/hi20260204-maker"><img src="https://img.shields.io/badge/hi20260204--maker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</td>
+<td style="text-align: center;">
+<a href="https://github.com/ohjuheecode"><img src="https://img.shields.io/badge/ohjuheecode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</td>
+<td style="text-align: center;">
+<a href="https://github.com/EJ-pro"><img src="https://img.shields.io/badge/EJ--pro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</td>
+<td style="text-align: center;">
+<a href="https://github.com/SongwonPark08"><img src="https://img.shields.io/badge/SongwonPark08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</td>
+<td style="text-align: center;">
+<a href="https://github.com/techshin31"><img src="https://img.shields.io/badge/techshin31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</td>
+</tr>
+
+<!-- 5. 세부 업무 -->
+<tr style="font-size: 0.85em;">
+<td style="text-align: center;">이탈률 방어 모델<br>백엔드</td>
+<td style="text-align: center;">이탈률 예측 모델<br>데이터 전처리 및 수집<br>백엔드</td>
+<td style="text-align: center;">이탈 원인 분석 모델<br>프론트</td>
+<td style="text-align: center;">이탈률 예측 모델<br>프론트</td>
+<td style="text-align: center;">이탈률 예측 모델<br>데이터 전처리 및 수집</td>
+</tr>
+</tbody>
 </table>
 
 ## 프로젝트 개요   
