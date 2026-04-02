@@ -53,7 +53,7 @@
 <td style="text-align: center;">이탈률 예측 모델<br>데이터 전처리 및 수집<br>백엔드</td>
 <td style="text-align: center;">이탈 원인 분석 모델<br>프론트</td>
 <td style="text-align: center;">이탈률 예측 모델<br>프론트</td>
-<td style="text-align: center;">이탈률 예측 모델<br>데이터 전처리 및 수집</td>
+<td style="text-align: center;">이탈률 예측 모델<br>데이터 전처리 및 수집<br>문서정리</td>
 </tr>
 </tbody>
 </table>
