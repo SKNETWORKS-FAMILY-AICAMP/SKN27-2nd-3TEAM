@@ -167,7 +167,7 @@
 
 # ERD
 <p align="center">
-  <img src="Image/table.png" width="80%" alt="ERD">
+  <img src="Image/ERD1.png" width="80%" alt="ERD">
 </p>
 
 ## 프로젝트 구조
