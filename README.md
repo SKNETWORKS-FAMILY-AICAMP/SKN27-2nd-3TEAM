@@ -237,11 +237,11 @@ frontend/
 ```
 ## PAGE
 <p align="center">
-  <img src="Image/page1.png" width="80%" alt="ERD">
+  <img src="Image/page2.png" width="80%" alt="ERD">
 </p>
 
 <p align="center">
-  <img src="Image/page2.png" width="80%" alt="ERD">
+  <img src="Image/page1.png" width="80%" alt="ERD">
 </p>
 
 <p align="center">
