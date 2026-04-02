@@ -1,6 +1,55 @@
 ## KKBOX 구독자 이탈 예측 및 방지 시스템 (Churn Prevention System)
 - KKBOX 데이터를 활용하여 이탈 위험 고객을 조기에 감지하고, 맞춤형 마케팅 액션을 시뮬레이션하여 비즈니스 손실을 최소화하는 솔루션입니다.
 
+## 팀원 소개
+
+<table>
+  <colgroup>
+    <col style="width: 20%;">
+    <col style="width: 20%;">
+    <col style="width: 20%;">
+    <col style="width: 20%;">
+    <col style="width: 20%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="text-align: center;"><img src="assets/profileimage/content1.png" alt="이혜림"></td>
+      <td style="text-align: center;"><img src="assets/profileimage/content2.png" alt="이재희"></td>
+      <td style="text-align: center;"><img src="assets/profileimage/content3.png" alt="오주희"></td>
+      <td style="text-align: center;"><img src="assets/profileimage/content4.png" alt="박송원"></td>
+      <td style="text-align: center;"><img src="assets/profileimage/content5.png" alt="신동혁"></td>
+    </tr>
+    <tr style="font-weight: bold;">
+      <td style="text-align: center;">이혜림</td>
+      <td style="text-align: center;">이재희</td>
+      <td style="text-align: center;">오주희</td>
+      <td style="text-align: center;">박송원</td>
+      <td style="text-align: center;">신동혁</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <a href="https://github.com/hi20260204-maker"><img src="https://img.shields.io/badge/jys96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - hi20260204-maker"></a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://github.com/EJ-pro"><img src="https://img.shields.io/badge/JUNGHEEYOUNG9090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - EJ-pro"></a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://github.com/ohjuheecode"><img src="https://img.shields.io/badge/jungyonghi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - ohjuheecode"></a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://github.com/SongwonPark08"><img src="https://img.shields.io/badge/hunsang--you-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - SongwonPark08"></a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://github.com/techshin31"><img src="https://img.shields.io/badge/rubyheartsping-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - techshin"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<br />
+
 ## 프로젝트 개요   
 - 배경
 
@@ -174,19 +223,19 @@
 1. Confusion Matrix (혼동 행렬)
 
 <p align="center">
-  <img src="Image/confusion_matrix1.png" width="45%" alt="Confusion Matrix" />
+  <img src="Image/confusion_matrix1.png" width="90%" alt="Confusion Matrix" />
 </p>
 
 2. Loss Curve (학습 손실 곡선)
 
 <p align="center">
-<img src="Image/roc_auc_curve1.png" width="85%" alt="ROC-AUC Curve" />
+<img src="Image/roc_auc_curve1.png" width="90%" alt="ROC-AUC Curve" />
 </p>
 
 - Feature Importance 
 
 <p align="center">
-  <img src="Image/feature_importance1.png" width="85%" alt="Feature Importance" />
+  <img src="Image/feature_importance1.png" width="90%" alt="Feature Importance" />
 </p>
 
 ### Stacking
@@ -195,19 +244,19 @@
 1. Confusion Matrix (혼동 행렬)
 
 <p align="center">
-  <img src="Image/confusion_matrix.png" width="45%" alt="Confusion Matrix" />
+  <img src="Image/confusion_matrix.png" width="90%" alt="Confusion Matrix" />
 </p>
 
 2. Loss Curve (학습 손실 곡선)
 
 <p align="center">
-<img src="Image/roc_auc_curve.png" width="85%" alt="ROC-AUC Curve" />
+<img src="Image/roc_auc_curve.png" width="90%" alt="ROC-AUC Curve" />
 </p>
 
 - Feature Importance
 
 <p align="center">
-  <img src="Image/feature_importance.png" width="85%" alt="Feature Importance" />
+  <img src="Image/feature_importance.png" width="90%" alt="Feature Importance" />
 </p>
 
 ---
@@ -254,8 +303,12 @@
 
 ## 결론
 
-이번 프로젝트에서는 XGBoost와 Stacking 모델을 활용해 고객 이탈 예측을 시도했다.
-특히 ‘자동 갱신 여부(is_auto_renew_last)’와 ‘결제 공백 기간(last_payment_gap)’이 가장 큰 이탈 요인으로 나타났다.
-두 모델 모두 안정적인 학습 곡선을 기록하며, Stacking 모델은 유지 고객과 이탈 고객을 고르게 예측하는 뛰어난 성능을 보였다.
-이를 바탕으로, 자동 갱신 해지 고객을 대상으로 한 타겟 마케팅 전략과 이탈 징후 모니터링 시스템 구축이 필요하다.
-앞으로도 지속적인 데이터 업데이트와 모델 재학습을 통해 리텐션 효과를 극대화할 수 있을 것으로 기대된다.
+이번 프로젝트에서는 XGBoost와 Stacking(XGBoost, LightGBM, CatBoost) 모델을 활용해 고객 이탈 예측을 수행하였다. 모델 성능 비교 결과, XGBoost의 평균 성능은 0.9045, Stacking 모델의 평균 성능은 0.9054로 나타나 Stacking이 단일 모델 대비 소폭 우수한 예측력을 보였다. 수치 차이는 크지 않지만, 이는 서로 다른 부스팅 계열 모델의 장점을 결합함으로써 예측의 안정성과 일반화 성능을 높인 결과로 해석할 수 있다.
+
+혼동행렬 결과를 보면, XGBoost는 유지 고객 6,612건과 이탈 고객 6,754건을 정확히 예측한 반면, Stacking 모델은 유지 고객 6,802건을 정확히 분류하여 유지 고객 판별 측면에서 더 나은 성능을 보였다. 특히 유지 고객을 이탈로 잘못 분류한 False Positive가 1,379건에서 1,189건으로 감소해, 실제 서비스 운영 시 불필요한 마케팅 비용이나 과도한 리텐션 개입을 줄일 수 있다는 장점이 있다. 반면 이탈 고객 탐지 수는 다소 감소했지만, 전체적으로는 두 클래스를 보다 균형 있게 예측하며 안정적인 분류 성능을 보였다.
+
+학습 곡선 측면에서도 XGBoost, LightGBM, CatBoost 모두 loss가 안정적으로 감소하는 모습을 보여 과적합 없이 신뢰할 수 있는 학습이 이루어졌음을 확인하였다. 이는 본 프로젝트에서 생성한 행동·결제 기반 파생변수들이 실제 이탈 패턴을 잘 반영하고 있으며, 모델이 이를 효과적으로 학습했다는 점을 뒷받침한다.
+
+주요 이탈 요인으로는 자동 갱신 여부(is_auto_renew_last), 최근 결제 취소 여부(is_cancel_last), 결제 공백 기간(last_payment_gap), 최근 거래 이후 경과일(days_since_last_txn) 등이 확인되었다. 특히 자동 갱신이 해제된 고객과 결제 공백이 길어진 고객은 이탈 가능성이 높은 핵심 위험군으로 볼 수 있다. 또한 최근 7일 고유곡 비율(unique_ratio_7), 최근 30일 활동일수(active_days_30)와 같은 활동성 변수도 중요하게 작용하여, 결제 정보뿐 아니라 사용 패턴 변화 역시 이탈을 설명하는 주요 신호임을 확인하였다.
+
+종합하면, 본 프로젝트는 단순히 고객 이탈을 예측하는 데 그치지 않고, 실제 비즈니스 현장에서 활용 가능한 리텐션 전략 수립의 근거를 제공했다는 점에서 의미가 있다. 향후에는 자동 갱신 해지 고객을 대상으로 한 맞춤형 프로모션, 결제 공백 증가 고객에 대한 실시간 모니터링, 고객 세분화 기반의 차등 마케팅 전략을 적용함으로써 보다 정교한 churn prevention system으로 확장할 수 있을 것이다. 또한 지속적인 데이터 업데이트와 주기적인 모델 재학습을 통해 예측 성능과 리텐션 효과를 함께 높여 나갈 수 있을 것으로 기대된다.
