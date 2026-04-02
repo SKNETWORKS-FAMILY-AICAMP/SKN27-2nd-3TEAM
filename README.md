@@ -13,11 +13,11 @@
   </colgroup>
   <tbody>
     <tr>
-      <td style="text-align: center;"><img src="assets/profileimage/content1.png" alt="이혜림"></td>
-      <td style="text-align: center;"><img src="assets/profileimage/content2.png" alt="이재희"></td>
-      <td style="text-align: center;"><img src="assets/profileimage/content3.png" alt="오주희"></td>
-      <td style="text-align: center;"><img src="assets/profileimage/content4.png" alt="박송원"></td>
-      <td style="text-align: center;"><img src="assets/profileimage/content5.png" alt="신동혁"></td>
+      <td style="text-align: center;"><img src="Image/content1.png" alt="이혜림"></td>
+      <td style="text-align: center;"><img src="Image/content2.png" alt="이재희"></td>
+      <td style="text-align: center;"><img src="Image/content3.png" alt="오주희"></td>
+      <td style="text-align: center;"><img src="Image/content4.png" alt="박송원"></td>
+      <td style="text-align: center;"><img src="Image/content5.png" alt="신동혁"></td>
     </tr>
     <tr style="font-weight: bold;">
       <td style="text-align: center;">이혜림</td>
