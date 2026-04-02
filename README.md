@@ -16,7 +16,7 @@
       <td style="text-align: center;"><img src="Image/content1.png" alt="이혜림"></td>
       <td style="text-align: center;"><img src="Image/content2.png" alt="이재희"></td>
       <td style="text-align: center;"><img src="Image/content3.png" alt="오주희"></td>
-      <td style="text-align: center;"><img src="Image/content4.png" alt="박송원"></td>
+      <td style="text-align: center;"><img src="Image/content4.png" alt="박송원" style="width: 180px;"></td>
       <td style="text-align: center;"><img src="Image/content5.png" alt="신동혁"></td>
     </tr>
     <tr style="font-weight: bold;">
@@ -27,28 +27,29 @@
       <td style="text-align: center;">신동혁</td>
     </tr>
     <tr>
+      <!-- 이혜림 -->
       <td style="text-align: center;">
-        <a href="https://github.com/hi20260204-maker"><img src="https://img.shields.io/badge/jys96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - hi20260204-maker"></a>
+        <a href="https://github.com/hi20260204-maker"><img src="https://img.shields.io/badge/hi20260204--maker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - hi20260204-maker"></a>
       </td>
+      <!-- 이재희 -->
       <td style="text-align: center;">
-        <a href="https://github.com/EJ-pro"><img src="https://img.shields.io/badge/JUNGHEEYOUNG9090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - EJ-pro"></a>
+        <a href="https://github.com/EJ-pro"><img src="https://img.shields.io/badge/EJ--pro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - EJ-pro"></a>
       </td>
+      <!-- 오주희 -->
       <td style="text-align: center;">
-        <a href="https://github.com/ohjuheecode"><img src="https://img.shields.io/badge/jungyonghi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - ohjuheecode"></a>
+        <a href="https://github.com/ohjuheecode"><img src="https://img.shields.io/badge/ohjuheecode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - ohjuheecode"></a>
       </td>
+      <!-- 박송원 -->
       <td style="text-align: center;">
-        <a href="https://github.com/SongwonPark08"><img src="https://img.shields.io/badge/hunsang--you-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - SongwonPark08"></a>
+        <a href="https://github.com/SongwonPark08"><img src="https://img.shields.io/badge/SongwonPark08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - SongwonPark08"></a>
       </td>
+      <!-- 신동혁 -->
       <td style="text-align: center;">
-        <a href="https://github.com/techshin31"><img src="https://img.shields.io/badge/rubyheartsping-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - techshin"></a>
+        <a href="https://github.com/techshin31"><img src="https://img.shields.io/badge/techshin31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - techshin31"></a>
       </td>
     </tr>
   </tbody>
 </table>
-
----
-
-<br />
 
 ## 프로젝트 개요   
 - 배경
