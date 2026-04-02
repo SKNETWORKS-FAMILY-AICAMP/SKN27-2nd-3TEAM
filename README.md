@@ -235,6 +235,19 @@ frontend/
     └─sql/ (💾 순수 SQL 쿼리 파일)
        파이썬 코드 내부가 아닌, 분리해서 관리하고 싶은 복잡한 SQL 쿼리문 파일이나 뷰(View), 프로시저 생성 스크립트 등을 저장해두는 폴더입니다.
 ```
+## PAGE
+<p align="center">
+  <img src="Image/page1.png" width="80%" alt="ERD">
+</p>
+
+<p align="center">
+  <img src="Image/page2.png" width="80%" alt="ERD">
+</p>
+
+<p align="center">
+  <img src="Image/page3.png" width="80%" alt="ERD">
+</p>
+
 ---
 ## 데이터 전처리 결과서 (EDA)
 
