@@ -14,7 +14,7 @@
 <tbody>
 <!-- 1. 프로필 이미지 -->
 <tr>
-<td style="text-align: center;"><img src="Image/content1.png" alt="이혜림"style="width: 300px;"></td>
+<td style="text-align: center;"><img src="Image/content1.png" alt="이혜림"style="width: 180px;"></td>
 <td style="text-align: center;"><img src="Image/content3.png" alt="오주희"style="width: 180px;"></td>
 <td style="text-align: center;"><img src="Image/content2.png" alt="이재희"style="width: 180px;"></td>
 <td style="text-align: center;"><img src="Image/content4.png" alt="박송원"style="width: 180px;"></td>
